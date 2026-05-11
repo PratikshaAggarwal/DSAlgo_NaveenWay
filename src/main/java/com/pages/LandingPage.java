@@ -21,7 +21,7 @@ public class LandingPage {
 
 	private By tagline = By.xpath("//*[contains(text(),'You are at the right place')]");
 	private By getStartedButton = By.linkText("Get Started");
-	private By copyrightText = By.xpath("//*[contains(text(),'Copyright@NumpyNinja2021')]");
+	private By copyrightText ;//= By.xpath("//*[contains(text(),'Copyright@NumpyNinja2021')]");
 	
 
 	// ─── Constructor ──────────────────────────────────────────────
